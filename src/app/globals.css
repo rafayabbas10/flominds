@@ -1,21 +1,42 @@
+/* app/globals.css */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Roboto:wght@300;400&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
+/* Custom global styles */
+html,
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: theme('colors.jet-black');
+  color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Custom button styles */
+.cta-button {
+  @apply bg-neon-blue text-jet-black font-montserrat font-bold py-3 px-6 rounded-lg 
+         hover:scale-105 transition-transform duration-300 
+         hover:shadow-[0_0_15px_rgba(0,224,255,0.5)];
+}
+
+/* Custom input styles */
+.form-input {
+  @apply bg-graphite border border-deep-purple rounded-lg px-4 py-2
+         focus:border-electric-teal focus:outline-none focus:ring-1 focus:ring-electric-teal;
 }
