@@ -39,7 +39,7 @@ export default function BookDemoPage() {
             <div className="card bg-base-200 shadow-xl hover:shadow-[0_0_30px_rgba(0,224,255,0.2)] transition-all duration-300">
               <div className="card-body">
                 <h3 className="card-title text-secondary">Tailored to You</h3>
-                <p>Share your challenges, and we'll demonstrate solutions specific to your business needs. It's a demo built around your vision.</p>
+                <p>Share your challenges, and we&apos;ll demonstrate solutions specific to your business needs. It&apos;s a demo built around your vision.</p>
               </div>
             </div>
             <div className="card bg-base-200 shadow-xl hover:shadow-[0_0_30px_rgba(0,224,255,0.2)] transition-all duration-300">
@@ -72,7 +72,7 @@ export default function BookDemoPage() {
                 </div>
               </div>
               <p className="text-xl mt-6">
-                Now, it's your turn to leave the grunt work behind and focus on what truly matters.
+                Now, it&apos;s your turn to leave the grunt work behind and focus on what truly matters.
               </p>
             </div>
           </div>
@@ -102,17 +102,17 @@ export default function BookDemoPage() {
         <div className="container mx-auto max-w-4xl text-center">
           <div className="chat chat-end">
             <div className="chat-bubble chat-bubble-primary">
-              Join a growing community that's already saving thousands of hours and unlocking new levels of productivity.
+              Join a growing community that&apos;s already saving thousands of hours and unlocking new levels of productivity.
             </div>
           </div>
           <div className="chat chat-start mt-4">
             <div className="chat-bubble chat-bubble-secondary">
-              With FloMinds.AI, you're not just booking a demo—you're stepping into the future of work.
+              With FloMinds.AI, you&apos;re not just booking a demo—you&apos;re stepping into the future of work.
             </div>
           </div>
-          <div className="divider">Let's Get Started</div>
+          <div className="divider">Let&apos;s Get Started</div>
           <p className="text-xl italic text-primary">
-            Let's get digital. Let's get creative. Let's automate.
+            Let&apos;s get digital. Let&apos;s get creative. Let&apos;s automate.
           </p>
         </div>
       </section>

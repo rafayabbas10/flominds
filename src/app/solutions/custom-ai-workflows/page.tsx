@@ -13,7 +13,7 @@ export default function CustomAIWorkflowsPage() {
               Custom AI Workflows
             </h1>
             <p className="text-xl opacity-90">
-              When off-the-shelf solutions won't cut it, our custom AI workflows are tailored 
+              When off-the-shelf solutions won&apos;t cut it, our custom AI workflows are tailored 
               to your specific business needs. We collaborate with you to build, fine-tune, 
               and deploy AI models that integrate seamlessly into your operations.
             </p>
@@ -68,7 +68,7 @@ export default function CustomAIWorkflowsPage() {
           <div className="card bg-base-200 shadow-xl">
             <div className="card-body items-center text-center">
               <h2 className="card-title text-2xl mb-4">Ready to Transform Your Workflow?</h2>
-              <p className="mb-6">Let's discuss how custom AI solutions can revolutionize your business operations.</p>
+              <p className="mb-6">Let&apos;s discuss how custom AI solutions can revolutionize your business operations.</p>
               <div className="card-actions">
                 <CTAButton size="lg">
                   Book a Consultation

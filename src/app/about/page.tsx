@@ -1,6 +1,3 @@
-// app/about/page.tsx
-import Link from 'next/link'
-import CTAButton from '../../components/CTAButton'
 
 export default function AboutPage() {
   return (
@@ -14,7 +11,7 @@ export default function AboutPage() {
             </h1>
             <p className="text-xl opacity-90">
               Welcome to FloMinds.AI—where cutting-edge technology meets creativity, and automation transforms the way you work. 
-              We're not just a team of AI engineers; we're digital trailblazers on a mission to make the mundane obsolete.
+              We&apos;re not just a team of AI engineers; we&apos;re digital trailblazers on a mission to make the mundane obsolete.
             </p>
           </div>
         </div>
@@ -98,7 +95,7 @@ export default function AboutPage() {
               <h2 className="card-title text-3xl mb-6">Meet the Team</h2>
               <div className="chat chat-start mb-4">
                 <div className="chat-bubble chat-bubble-primary">
-                  We're a diverse group of thinkers, makers, and innovators who thrive on solving challenges and pushing boundaries.
+                  We&apos;re a diverse group of thinkers, makers, and innovators who thrive on solving challenges and pushing boundaries.
                 </div>
               </div>
               <div className="chat chat-end mb-4">

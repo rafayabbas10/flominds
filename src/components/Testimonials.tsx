@@ -8,11 +8,11 @@ interface Testimonial {
 const testimonials: Testimonial[] = [
   {
     name: 'Alex, Digital Marketing Lead',
-    feedback: "FloMinds.AI transformed our content creation process. We're now 60% more efficient!",
+    feedback: "FloMinds.AI transformed our content creation process. We&apos;re now 60% more efficient!",
   },
   {
     name: 'Jordan, CEO',
-    feedback: "Their custom workflows saved us 30 hours every week. It's like having an extra team member.",
+    feedback: "Their custom workflows saved us 30 hours every week. It&apos;s like having an extra team member.",
   },
 ]
 
@@ -31,7 +31,7 @@ const Testimonials = () => {
               <div className="card-body">
                 <div className="chat chat-start">
                   <div className="chat-bubble chat-bubble-primary">
-                    "{testimonial.feedback}"
+                    &quot;{testimonial.feedback}&quot;
                   </div>
                 </div>
                 <div className="card-actions justify-end mt-4">

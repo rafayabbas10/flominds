@@ -77,7 +77,7 @@ export default function HomePage() {
                 <div>
                   <span className="font-bold">Over 500+ Businesses Trust Us</span>
                   <br />
-                  <span className="text-sm opacity-80">Join the revolution that's already saved companies countless hours!</span>
+                  <span className="text-sm opacity-80">Join the revolution that&apos;s already saved companies countless hours!</span>
                 </div>
               </div>
             </div>
@@ -170,7 +170,7 @@ export default function HomePage() {
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" className="stroke-current shrink-0 w-6 h-6">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
             </svg>
-            <span className="italic">Numbers don't lie—our technology is changing the game, one workflow at a time.</span>
+            <span className="italic">Numbers don&apos;t lie—our technology is changing the game, one workflow at a time.</span>
           </div>
         </div>
       </section>
@@ -214,14 +214,14 @@ export default function HomePage() {
             <div className="chat chat-start animate-fade-in-up">
               <div className="chat-bubble chat-bubble-primary hover:shadow-[0_0_15px_rgba(0,224,255,0.3)] 
                               transition-all duration-300">
-                FloMinds.AI is not just a service—it's your partner in creating a world where technology handles the grunt work, leaving you free to innovate and create.
+                FloMinds.AI is not just a service—it&apos;s your partner in creating a world where technology handles the grunt work, leaving you free to innovate and create.
               </div>
             </div>
             <div className="divider animate-fade-in">Our Promise</div>
             <div className="chat chat-end animate-fade-in-up" style={{ animationDelay: '200ms' }}>
               <div className="chat-bubble chat-bubble-secondary hover:shadow-[0_0_15px_rgba(255,59,129,0.3)] 
                               transition-all duration-300 italic">
-                Let's get digital. Let's get creative. Let's automate.
+                Let&apos;s get digital. Let&apos;s get creative. Let&apos;s automate.
               </div>
             </div>
           </div>

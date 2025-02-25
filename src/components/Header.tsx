@@ -23,7 +23,6 @@ const Header = () => {
               </ul>
             </li>
             <li><Link href="/about" className="hover:text-primary transition-colors">About</Link></li>
-            <li><Link href="/blog" className="hover:text-primary transition-colors">Blog</Link></li>
             <li><Link href="/contact" className="hover:text-primary transition-colors">Contact</Link></li>
           </ul>
         </div>
@@ -48,7 +47,6 @@ const Header = () => {
             </details>
           </li>
           <li><Link href="/about" className="hover:text-primary transition-colors">About</Link></li>
-          <li><Link href="/blog" className="hover:text-primary transition-colors">Blog</Link></li>
           <li><Link href="/contact" className="hover:text-primary transition-colors">Contact</Link></li>
         </ul>
       </div>

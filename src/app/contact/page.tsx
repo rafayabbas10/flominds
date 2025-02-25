@@ -10,9 +10,9 @@ export default function ContactPage() {
               Get in Touch
             </h1>
             <p className="text-xl opacity-90">
-              Have questions? We'd love to hear from you. Whether you need technical support, 
+              Have questions? We&apos;d love to hear from you. Whether you need technical support, 
               have partnership inquiries, or just want to learn more about our AI solutions, 
-              we're here to help.
+              we&apos;re here to help.
             </p>
           </div>
         </div>

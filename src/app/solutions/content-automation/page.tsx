@@ -13,7 +13,7 @@ export default function ContentAutomationPage() {
               Content Automation Pipeline
             </h1>
             <p className="text-xl opacity-90">
-              Transform your channel's theme into dynamic, on-brand video reels in just 10 minutes. 
+              Transform your channel&apos;s theme into dynamic, on-brand video reels in just 10 minutes. 
               With AI-driven precision, we ensure every piece of content resonates with your audience.
             </p>
           </div>

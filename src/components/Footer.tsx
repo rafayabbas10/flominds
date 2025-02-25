@@ -40,7 +40,6 @@ const Footer = () => {
           Company
         </h6>
         <Link href="/about" className="link link-hover">About Us</Link>
-        <Link href="/blog" className="link link-hover">Blog</Link>
         <Link href="/careers" className="link link-hover">Careers</Link>
         <Link href="/book-demo" className="link link-hover">Book a Demo</Link>
       </nav>
